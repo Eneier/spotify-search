@@ -2,7 +2,6 @@ import React from 'react';
 import Box from "@mui/material/Box";
 import CardItem from "../CardItem/CardItem";
 import {Track} from "../Search/ITrack";
-import {SpotifyTrackData} from "../Search/ISearch";
 
 
 export type Tracks = Track[];
